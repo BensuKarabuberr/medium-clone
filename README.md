@@ -1,5 +1,11 @@
 # medium-clone
 
+
+https://github.com/BensuKarabuberr/medium-clone/assets/139227879/459fd6e7-bf57-48d9-8603-7f05941b7faf
+
+
+
+
 ![Ekran Resmi 2024-01-10 16 18 38](https://github.com/BensuKarabuberr/medium-clone/assets/139227879/3bd190d2-045f-4ff8-b1f6-44d8bf3a3f77)
 
 ![Ekran Resmi 2024-01-10 16 18 47](https://github.com/BensuKarabuberr/medium-clone/assets/139227879/f5d86f83-08c4-495e-8c3d-d1f304d22496)
